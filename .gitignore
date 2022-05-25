@@ -78,3 +78,7 @@ fabric.properties
 Basic/.idea/
 Basic (p.2)/.idea/
 WhatVueHas (p.3)/.idea/
+HowVueWork (p.4)/.idea/.gitignore
+HowVueWork (p.4)/.idea/HowVueWork (p.4).iml
+HowVueWork (p.4)/.idea/modules.xml
+HowVueWork (p.4)/.idea/vcs.xml
